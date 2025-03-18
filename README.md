@@ -12,7 +12,7 @@ This project focuses on generating medical images for disease prediction using m
 ## Tech Stack
 - **Machine Learning** (TensorFlow, PyTorch)
 - **Deep Learning** (CNN, GANs, Transformers)
-- **Explainable AI** (SHAP, LIME)
+- **Explainable AI** (GradCam)
 - **Python** (NumPy, Pandas, Matplotlib, OpenCV)
 
 ## Installation
